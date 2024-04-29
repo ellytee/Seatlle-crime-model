@@ -1,4 +1,4 @@
-*Predictive Modeling for Classification*
+# Predictive Modeling for Classification
 
 **Description:**
 This project aims to develop and compare predictive models for classification tasks using machine learning algorithms. The dataset consists of [describe dataset characteristics briefly]. Various classifiers including Random Forest, Logistic Regression, and Support Vector Machine (SVM) were evaluated using Stratified cross-validation with 5 folds. Additionally, different scaling techniques such as MinMaxScaler, StandardScaler, and RobustScaler were applied to preprocess the data and assess their impact on model performance.
